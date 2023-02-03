@@ -1,0 +1,102 @@
+{
+    "SAMN17171106": {
+        "serovar": "Infantis",
+        "strain": "CFSAN107262",
+        "attribute_package": "clinical/host-associated",
+        "isolation source": "fecal swab",
+        "IFSAC+ Category": "clinical/research| human",
+        "source type": "Human",
+        "geographic location": "Brazil",
+        "host": "Homo sapiens",
+        "sub species": "enterica",
+        "ontological term": "feces:UBERON_0001988|swab:NCIT_C17627",
+        "host disease": "missing",
+        "host type": "Homo sapiens",
+        "collected by": "FDA",
+        "collection date": "2017",
+        "isolate name alias": "SI 2954/17",
+        "latitude and longitude": "missing",
+        "PublicAccession": "CFSAN107262",
+        "ProjectAccession": "PRJNA186035",
+        "Species": "enterica",
+        "Genus": "Salmonella",
+        "query_ids": [
+            "AAYKFE01"
+        ]
+    },
+    "SAMN17171104": {
+        "serovar": "Infantis",
+        "strain": "CFSAN107263",
+        "attribute_package": "clinical/host-associated",
+        "isolation source": "fecal swab",
+        "IFSAC+ Category": "clinical/research| human",
+        "source type": "Human",
+        "geographic location": "Brazil",
+        "host": "Homo sapiens",
+        "sub species": "enterica",
+        "ontological term": "feces:UBERON_0001988|swab:NCIT_C17627",
+        "host disease": "missing",
+        "host type": "Homo sapiens",
+        "collected by": "FDA",
+        "collection date": "2017",
+        "isolate name alias": "SI 3380/17",
+        "latitude and longitude": "missing",
+        "PublicAccession": "CFSAN107263",
+        "ProjectAccession": "PRJNA186035",
+        "Species": "enterica",
+        "Genus": "Salmonella",
+        "query_ids": [
+            "AAYKFP01"
+        ]
+    },
+    "SAMN17171095": {
+        "serovar": "Infantis",
+        "strain": "CFSAN107273",
+        "attribute_package": "clinical/host-associated",
+        "isolation source": "fecal swab",
+        "IFSAC+ Category": "clinical/research| human",
+        "source type": "Human",
+        "geographic location": "Brazil",
+        "host": "Homo sapiens",
+        "sub species": "enterica",
+        "ontological term": "feces:UBERON_0001988|swab:NCIT_C17627",
+        "host disease": "missing",
+        "host type": "Homo sapiens",
+        "collected by": "FDA",
+        "collection date": "2018",
+        "isolate name alias": "SI 331/18",
+        "latitude and longitude": "missing",
+        "PublicAccession": "CFSAN107273",
+        "ProjectAccession": "PRJNA186035",
+        "Species": "enterica",
+        "Genus": "Salmonella",
+        "query_ids": [
+            "AAYKFT01"
+        ]
+    },
+    "SAMN17171074": {
+        "serovar": "Infantis",
+        "strain": "CFSAN107261",
+        "attribute_package": "clinical/host-associated",
+        "isolation source": "fecal swab",
+        "IFSAC+ Category": "clinical/research| human",
+        "source type": "Human",
+        "geographic location": "Brazil",
+        "host": "Homo sapiens",
+        "sub species": "enterica",
+        "ontological term": "feces:UBERON_0001988|swab:NCIT_C17627",
+        "host disease": "missing",
+        "host type": "Homo sapiens",
+        "collected by": "FDA",
+        "collection date": "2017",
+        "isolate name alias": "SI 2953/17",
+        "latitude and longitude": "missing",
+        "PublicAccession": "CFSAN107261",
+        "ProjectAccession": "PRJNA186035",
+        "Species": "enterica",
+        "Genus": "Salmonella",
+        "query_ids": [
+            "AAYKFZ01"
+        ]
+    }
+}

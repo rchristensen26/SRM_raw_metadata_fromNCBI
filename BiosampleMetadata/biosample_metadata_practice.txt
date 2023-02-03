@@ -1,0 +1,113 @@
+1: Pathogen: clinical or host-associated sample from Salmonella enterica subsp. enterica serovar Infantis
+Identifiers: BioSample: SAMN17171106; SRA: SRS7929271; CFSAN: CFSAN107262
+Organism: human gut metagenome
+Attributes:
+    /serovar="Infantis"
+    /strain="CFSAN107262"
+    /attribute_package="clinical/host-associated"
+    /isolation source="fecal swab"
+    /IFSAC+ Category="clinical/research| human"
+    /source type="Human"
+    /geographic location="Brazil"
+    /host="Homo sapiens"
+    /sub species="enterica"
+    /ontological term="feces:UBERON_0001988|swab:NCIT_C17627"
+    /host disease="missing"
+    /host type="Homo sapiens"
+    /collected by="FDA"
+    /collection date="2017"
+    /isolate name alias="SI 2954/17"
+    /latitude and longitude="missing"
+    /host disease="missing"
+    /PublicAccession="CFSAN107262"
+    /ProjectAccession="PRJNA186035"
+    /Species="enterica"
+    /Genus="Salmonella"
+Accession: SAMN17171106	ID: 17171106
+
+
+
+2: Pathogen: clinical or host-associated sample from Salmonella enterica subsp. enterica serovar Infantis
+Identifiers: BioSample: SAMN17171104; SRA: SRS7929258; CFSAN: CFSAN107263
+Organism: Salmonella enterica subsp. enterica serovar Infantis
+Attributes:
+    /serovar="Infantis"
+    /strain="CFSAN107263"
+    /attribute_package="clinical/host-associated"
+    /isolation source="fecal swab"
+    /IFSAC+ Category="clinical/research| human"
+    /source type="Human"
+    /geographic location="Brazil"
+    /host="Homo sapiens"
+    /sub species="enterica"
+    /ontological term="feces:UBERON_0001988|swab:NCIT_C17627"
+    /host disease="missing"
+    /host type="Homo sapiens"
+    /collected by="FDA"
+    /collection date="2017"
+    /isolate name alias="SI 3380/17"
+    /latitude and longitude="missing"
+    /host disease="missing"
+    /PublicAccession="CFSAN107263"
+    /ProjectAccession="PRJNA186035"
+    /Species="enterica"
+    /Genus="Salmonella"
+Accession: SAMN17171104	ID: 17171104
+
+3: Pathogen: clinical or host-associated sample from Salmonella enterica subsp. enterica serovar Infantis
+Identifiers: BioSample: SAMN17171095; SRA: SRS7929251; CFSAN: CFSAN107273
+Organism: Salmonella enterica subsp. enterica serovar Infantis
+Attributes:
+    /serovar="Infantis"
+    /strain="CFSAN107273"
+    /attribute_package="clinical/host-associated"
+    /isolation source="fecal swab"
+    /IFSAC+ Category="clinical/research| human"
+    /source type="Human"
+    /geographic location="Brazil"
+    /host="Homo sapiens"
+    /sub species="enterica"
+    /ontological term="feces:UBERON_0001988|swab:NCIT_C17627"
+    /host disease="missing"
+    /host type="Homo sapiens"
+    /collected by="FDA"
+    /collection date="2018"
+    /isolate name alias="SI 331/18"
+    /latitude and longitude="missing"
+    /host disease="missing"
+    /PublicAccession="CFSAN107273"
+    /ProjectAccession="PRJNA186035"
+    /Species="enterica"
+    /Genus="Salmonella"
+Accession: SAMN17171095	ID: 17171095
+
+
+
+
+4: Pathogen: clinical or host-associated sample from Salmonella enterica subsp. enterica serovar Infantis
+Identifiers: BioSample: SAMN17171074; SRA: SRS7929247; CFSAN: CFSAN107261
+Organism: Salmonella enterica subsp. enterica serovar Infantis
+Attributes:
+    /serovar="Infantis"
+    /strain="CFSAN107261"
+    /attribute_package="clinical/host-associated"
+    /isolation source="fecal swab"
+    /IFSAC+ Category="clinical/research| human"
+    /source type="Human"
+    /geographic location="Brazil"
+    /host="Homo sapiens"
+    /sub species="enterica"
+    /ontological term="feces:UBERON_0001988|swab:NCIT_C17627"
+    /host disease="missing"
+    /host type="Homo sapiens"
+    /collected by="FDA"
+    /collection date="2017"
+    /isolate name alias="SI 2953/17"
+    /latitude and longitude="missing"
+    /host disease="missing"
+    /PublicAccession="CFSAN107261"
+    /ProjectAccession="PRJNA186035"
+    /Species="enterica"
+    /Genus="Salmonella"
+Accession: SAMN17171074	ID: 17171074
+

@@ -1,0 +1,5 @@
+,sample_id,organism
+0,SAMN17171106,human gut metagenome
+1,SAMN17171104,Salmonella enterica subsp. enterica serovar Infantis
+2,SAMN17171095,Salmonella enterica subsp. enterica serovar Infantis
+3,SAMN17171074,Salmonella enterica subsp. enterica serovar Infantis
